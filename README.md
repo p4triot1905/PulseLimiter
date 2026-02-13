@@ -36,3 +36,11 @@ Built with the lightweight **Token Bucket algorithm** and designed to be:
 
 ```bash
 npm install pulselimiter
+
+to run
+
+npm test
+
+to build the package
+
+npm run build
